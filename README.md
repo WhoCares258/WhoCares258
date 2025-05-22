@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm currently a Sunway University student
+- Keeping this quite empty for now
 <!--
 **WhoCares258/WhoCares258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
